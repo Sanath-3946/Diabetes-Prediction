@@ -1,5 +1,6 @@
-# Diabetes-Prediction
+# Diabetes-Prediction  
 A simple machine learning model that predicts whether a patient has diabetic condition or not.  
+# DataSet
 In this model i have created a synthetic dataset that contains the following attributes:  
 # Attributes:  
 1.Age  
@@ -9,8 +10,10 @@ In this model i have created a synthetic dataset that contains the following att
 5.Cholestrol  
 6.Family history of diabetes  
 7.Physical Activity  
-8.Diabetes(Target)
+8.Diabetes(Target)  
 
+## Note:  
+The values in the dataset are fake.For that i have created a python code that assigns random values to the above attributes.You can use the same code and change the attributes or increase number of attributes to predict more precisely.
 # Models:  
 I have used four different models for diabetic prediction.  
 1.Logistic Regression  
@@ -53,4 +56,5 @@ Normal Blood Pressure: < 120/80 mm Hg
 ### 6.Family history:
 Having a close family member (parent or sibling) with diabetes increases your risk.
 ### 7.Physical Activity:
-An average of 150 minutes of physical activity can prevent diabetes.And it can be splitted into 30 minutes per day for five days.
+An average of 150 minutes of physical activity can prevent diabetes.And it can be splitted into 30 minutes per day for five days.  
+
