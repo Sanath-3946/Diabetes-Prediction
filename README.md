@@ -20,7 +20,7 @@ I have used four different models for diabetic prediction.
 2.Support Vector Machine  
 3.Decision Tree  
 4.Random Forest
-
+#### ColabNoteBook:https://colab.research.google.com/drive/1JlwmQ88hXFUPZiW77eIZHJF2Jo63feTz?usp=drive_link
 # Threshold values:  
 The attributes mentioned in the dataset have some threshold values, and when the threshold is reached then the model predicts diabetes.  
 ### 1.Age:
