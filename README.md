@@ -8,7 +8,8 @@ In this model i have created a synthetic dataset that contains the following att
 4.Blood-Pressure  
 5.Cholestrol  
 6.Family history of diabetes  
-7.Diabetes(Target)
+7.Physical Activity  
+8.Diabetes(Target)
 
 # Models:  
 I have used four different models for diabetic prediction.  
@@ -51,3 +52,5 @@ Normal Blood Pressure: < 120/80 mm Hg
   Abnormal cholesterol levels contribute to diabetes complications.  
 ### 6.Family history:
 Having a close family member (parent or sibling) with diabetes increases your risk.
+### 7.Physical Activity:
+An average of 150 minutes of physical activity can prevent diabetes.And it can be splitted into 30 minutes per day for five days.
