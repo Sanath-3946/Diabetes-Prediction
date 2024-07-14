@@ -1,5 +1,6 @@
 # Diabetes-Prediction  
 A simple machine learning model that predicts whether a patient has diabetic condition or not.  
+Collaborated Project with https://github.com/bhavithareddy-05
 # DataSet
 In this model i have created a synthetic dataset that contains the following attributes:  
 # Attributes:  
